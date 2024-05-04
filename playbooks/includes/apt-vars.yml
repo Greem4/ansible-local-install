@@ -21,6 +21,7 @@ apts:
   - curl
   - openjdk-21-jdk
   - maven
+  - virtualbox
 
 debs:
   - https://repo.yandex.ru/yandex-disk/yandex-disk_latest_amd64.deb
