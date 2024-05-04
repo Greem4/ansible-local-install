@@ -2,24 +2,15 @@ apts:
   - gnome-software-plugin-flatpak
   - gnome-tweaks
   - neofetch
-#  - bind9-dnsutils
   - mc
-#  - adb
   - htop
-#  - bat
-#  - geoip-bin
   - flatpak
   - tilix
   - zsh
   - nvtop
-#  - smartmontools
   - yt-dlp
   - flameshot
-#  - sshpass
-#  - terraform
   - wget
-#  - jq
-#  - sed
   - unzip
   - timeshift
   - vim
@@ -30,8 +21,6 @@ apts:
   - curl
   - openjdk-21-jdk
   - maven
-#  - gnupg-agent
-#  - software-properties-common
 
 debs:
   - https://repo.yandex.ru/yandex-disk/yandex-disk_latest_amd64.deb
