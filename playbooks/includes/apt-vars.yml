@@ -3,6 +3,7 @@ apts:
   - gnome-tweaks
   - neofetch
   - mc
+  - bat
   - htop
   - flatpak
   - tilix
