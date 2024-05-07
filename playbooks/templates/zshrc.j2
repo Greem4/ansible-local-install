@@ -23,9 +23,12 @@ ruby
 source $ZSH/oh-my-zsh.sh
 
 
-alias ll='ls -lah'
-alias la='ls -A'
-alias l='ls -CF'
+#alias ll='ls -lah'
+alias ll='exa --long --all --group'
+alias la='exa --icons -a'
+alias l='exa -l'
+alias ls='exa --icons'
+alias cat='batcat'
 
 alias docker-compose='docker compose'
 

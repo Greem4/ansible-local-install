@@ -4,10 +4,11 @@ apts:
   - neofetch
   - mc
   - bat
+  - eza
+  - zsh
   - htop
   - flatpak
   - tilix
-  - zsh
   - nvtop
   - yt-dlp
   - flameshot
@@ -23,6 +24,7 @@ apts:
   - openjdk-21-jdk
   - maven
   - virtualbox
+
 
 debs:
   - https://repo.yandex.ru/yandex-disk/yandex-disk_latest_amd64.deb
