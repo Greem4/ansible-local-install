@@ -16,6 +16,7 @@ apts:
   - unzip
   - timeshift
   - vim
+  - neovim
   - tlp
   - tlp-rdw
   - apt-transport-https
