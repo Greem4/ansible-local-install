@@ -25,6 +25,7 @@ apts:
   - openjdk-21-jdk
   - maven
   - virtualbox
+  - zoxide
 
 
 debs:
