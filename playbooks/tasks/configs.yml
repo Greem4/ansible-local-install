@@ -40,3 +40,15 @@
       ansible.posix.synchronize:
         src: "configs/openlens-node-pod-menu"
         dest: "{{ configs_mpv_folder }}"
+
+- name: nvim
+  block:
+    - name: "CFG: NVIM: Create dir"
+      ansible.builtin.file:
+        path: "{{ configs_nvim_folder }}"
+        state: directory
+
+    - name: "CFG: NVIM: Copy files"
+      ansible.posix.synchronize:
+        src: "configs/nvim"
+        dest: "{{ configs_nvim_folder }}"
