@@ -10,4 +10,4 @@ configs_dconf:
 
 configs_openlens_folder: /home/{{ ansible_env.USER }}/.var/app/dev.k8slens.OpenLens/config/OpenLens/node_modules/@alebcay/openlens-node-pod-menu
 
-configs_nvim_folder: /home/{{ ansible_env.USER }}/.config/nvim
+configs_nvim_folder: /home/{{ ansible_env.USER }}/.config/
