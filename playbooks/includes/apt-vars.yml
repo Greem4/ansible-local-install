@@ -26,6 +26,7 @@ apts:
   - maven
   - virtualbox
   - zoxide
+  - ripgrep
 
 
 debs:
