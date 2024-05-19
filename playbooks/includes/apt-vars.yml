@@ -27,6 +27,7 @@ apts:
   - virtualbox
   - zoxide
   - ripgrep
+  - fzf
 
 
 debs:
