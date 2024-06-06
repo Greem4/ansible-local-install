@@ -7,5 +7,4 @@ flatpaks:
   - com.google.Chrome
   - ru.yandex.Browser
   - org.mozilla.firefox
-  - io.mpv.Mpv
   - org.onlyoffice.desktopeditors
