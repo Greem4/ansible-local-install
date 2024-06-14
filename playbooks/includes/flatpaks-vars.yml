@@ -4,7 +4,4 @@ flatpaks:
   - com.mattjakeman.ExtensionManager
   - org.gnome.Evince
   - org.telegram.desktop
-  - com.google.Chrome
-  - ru.yandex.Browser
-  - org.mozilla.firefox
   - org.onlyoffice.desktopeditors
