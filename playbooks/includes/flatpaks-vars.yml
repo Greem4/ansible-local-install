@@ -4,4 +4,5 @@ flatpaks:
   - com.mattjakeman.ExtensionManager
   - org.gnome.Evince
   - org.telegram.desktop
+  - io.mpv.Mpv
   - org.onlyoffice.desktopeditors

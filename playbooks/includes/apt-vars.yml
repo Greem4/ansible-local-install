@@ -28,8 +28,7 @@ apts:
   - zoxide
   - ripgrep
   - fzf
-  - mpv
-  - mpv-mpris
+
 
 
 debs:
